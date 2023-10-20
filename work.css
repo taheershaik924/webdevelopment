@@ -1,0 +1,26 @@
+body{
+    background-color:black;
+    color: white;
+}
+table{
+    background-color: aqua;
+}
+td{
+    background-color: antiquewhite;
+}
+input{
+    background-color:lightcyan;
+}
+h1{
+    background-color: rgb(177, 174, 179);
+justify-content: center;
+text-align: center;
+text-decoration: underline;
+}
+p{
+    background-color: blanchedalmond;
+    color: white;
+    font-size: 30px;
+    text-align: center;
+    text-decoration: none;
+}
