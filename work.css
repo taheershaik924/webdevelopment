@@ -1,26 +1,31 @@
 body{
-    background-color:black;
-    color: white;
+    display: flex;
+    background-color: aquamarine;
 }
-table{
-    background-color: aqua;
+.box1{
+    background-color: bisque;
+    width: 100px;
+    height: 10vh;
 }
-td{
-    background-color: antiquewhite;
+.box2{
+    background-color: bisque;
+    width: 100px;
+    height: 10vh;
 }
-input{
-    background-color:lightcyan;
+.box3{
+    background-color: bisque;
+    width: 100px;
+    height: 10vh;
 }
-h1{
-    background-color: rgb(177, 174, 179);
-justify-content: center;
-text-align: center;
-text-decoration: underline;
+.box4{
+    background-color: bisque;
+    width: 50px;
+    height: 10vh;
+    
 }
-p{
-    background-color: blanchedalmond;
-    color: white;
-    font-size: 30px;
-    text-align: center;
-    text-decoration: none;
+.container{
+    display: flex;
+    justify-content: center;
+    text-align:justify;
+    
 }
